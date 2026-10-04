@@ -1,4 +1,4 @@
-# ConvNeXt-vs-EfficientNetV2---Audio-Classification
+# ConvNeXt vs EfficientNetV2 - Audio Classification
 
 Repositori ini berisi kode implementasi dan eksperimen untuk keperluan publikasi *proceeding* / penelitian akademik menggunakan arsitektur *Deep Learning* tingkat lanjut pada dataset audio.
 
