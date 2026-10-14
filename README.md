@@ -1,6 +1,5 @@
 # ConvNeXt vs EfficientNetV2 - Audio Classification
-[![Paper](https://img.shields.io/badge/Media-Pendukung-2563eb?style=for-the-badge&logo=googledrive&logoColor=white)](https://doi.org/10.33005/santika.v6i1.1081)
-
+[![DOI - Paper](https://img.shields.io/badge/DOI-10.xxxx%2Fxxxxx-blue.svg)](https://doi.org/10.33005/santika.v6i1.1081)
 Repositori ini berisi kode implementasi dan eksperimen untuk keperluan publikasi *proceeding* / penelitian akademik menggunakan arsitektur *Deep Learning* tingkat lanjut pada dataset audio.
 
 ## 📌 Deskripsi Proyek
